@@ -9,7 +9,7 @@ Designed for hackathons and real-world hospital digitization.
 
 ## 🚀 Live Demo
 
-🔗 https://hospitall.streamlit.app
+🔗 (https://hospitall.streamlit.app/)
 
 ---
 
